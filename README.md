@@ -56,5 +56,3 @@ The application will be accessible at http://localhost:8000.
 * Customize the application settings in the .env file.
 * Explore and modify the views in the resources/views directory to match your branding.
 
-### shamimshakir
-Happy shortening! 🚀
