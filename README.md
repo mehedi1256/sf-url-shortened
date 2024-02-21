@@ -1,6 +1,6 @@
-# Qtec URL Shortener
+# URL Shortener Project
 
-Qtec URL Shortener is a laravel test purpose simple yet powerful tool for shortening long URLs.
+URL Shortener is a simple yet powerful tool for shortening long URLs.
 
 ## Installation
 
@@ -31,7 +31,7 @@ Qtec URL Shortener is a laravel test purpose simple yet powerful tool for shorte
  php artisan key:generate
 ```
 #### 5. Run Vite server
-```
+```bash
 npm install && npm run dev
 ```
 #### 6. Run the Application:
