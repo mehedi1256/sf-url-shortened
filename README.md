@@ -7,8 +7,8 @@ Qtec URL Shortener is a laravel test purpose simple yet powerful tool for shorte
 #### 1. Clone the Repository:
 
 ```bash
- git clone https://github.com/shamimshakir/qtec-url-shortener.git
- cd qtec-url-shortener
+ git clone https://github.com/mehedi1256/sf-url-shortened.git
+ cd sf-url-shortened
 ```
 
 #### 2. Install Dependencies:
@@ -30,7 +30,11 @@ Qtec URL Shortener is a laravel test purpose simple yet powerful tool for shorte
 ```bash
  php artisan key:generate
 ```
-#### 5. Run the Application:
+#### 5. Run Vite server
+```
+npm install && npm run dev
+```
+#### 6. Run the Application:
 ```
 php artisan serve
 ```
